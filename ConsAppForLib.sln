@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsAppForLib", "ConsAppForLib\ConsAppForLib.csproj", "{F67ADDC7-345D-419A-B649-AD5BB236D4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib3", "..\MyLib3\MyLib3\MyLib3.csproj", "{DAF41B82-3843-4DD5-B998-63999DE7BEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67ADDC7-345D-419A-B649-AD5BB236D4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67ADDC7-345D-419A-B649-AD5BB236D4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67ADDC7-345D-419A-B649-AD5BB236D4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67ADDC7-345D-419A-B649-AD5BB236D4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF41B82-3843-4DD5-B998-63999DE7BEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF41B82-3843-4DD5-B998-63999DE7BEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF41B82-3843-4DD5-B998-63999DE7BEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF41B82-3843-4DD5-B998-63999DE7BEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B1C21CE-2A12-488A-A90F-239F2B7A4E9F}
+	EndGlobalSection
+EndGlobal
